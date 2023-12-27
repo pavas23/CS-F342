@@ -56,7 +56,7 @@ ptr->left = b; // $s1 has left pointer
 ptr->right = c; // $s2 has right pointer
 
 a = ptr->val;
-b= ptr->left;
+b = ptr->left;
 c = ptr->right;
 ```
 
