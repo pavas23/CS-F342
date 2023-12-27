@@ -82,15 +82,15 @@ lw $s2, 8($v0)
 
 | Lab | Topic | Lab Sheet | Date |
 | ------------- | ------------- | --- | -- |
-| 1  | Installation and execution of QTSPIM software for MIPS | [Lab 1](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab01/LabSheet1.pdf) | 31 Jan 2023 |
-| 2  | The basic program in MIPS (initializing variable, take input from user, addition) | [Lab 2](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab02/LabSheet2.pdf) | 07 Feb 2023 |
-| 3  | Storing and loading to and from memory, Use of mfhi and mflo registers, and arithmetic instructions | [Lab 3](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab03/LabSheet3.pdf) | 14 Feb 2023 |
-| 4  | Explore floating point instructions | [Lab 4](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab04/LabSheet4.pdf) | 21 Feb 2023 |
-| 5  | Branch instructions, jump instructions and logical and shift operations | [Lab 5](https://github.com/pavas23/CS-F342/tree/main/Labs/Lab05) | 28 Feb 2023 |
-| 6  | Loops, arrays and string manipulations | [Lab 6](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab06/LabSheet6.pdf) | 07 Mar 2023 |
-| 7  | Explore basics of functions and recursion | [Lab 7](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab07/LabSheet7.pdf) | 28 Mar 2023 |
-| 8  | Exception mechanism in MIPS | [Lab 8](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab08/LabSheet8.pdf) | 11 Apr 2023 |
-| 9  | Understanding the pipelining in MIPS | [Lab 9](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab09/LabSheet9.pdf) | 18 Apr 2023 |
-| 10  | Memory allocation using system calls | [Lab 10](https://github.com/pavas23/CS-F342/tree/main/Labs/Lab10) | 25 Apr 2023 |
-| 11  | Exploring sorting techniques using MIPS | [Lab 11](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab11/LabSheet11.pdf) | 25 Apr 2023 |
-| 12  | Graph Algorithms using MIPS | [Lab 12](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab12/LabSheet12.pdf) | 25 Apr 2023 |
+| 1  | Installation and execution of QTSPIM software for MIPS | [Lab 1](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab01/LabSheet1.pdf) | 18 Aug 2023 |
+| 2  | The basic program in MIPS (initializing variable, take input from user, addition) | [Lab 2](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab02/LabSheet2.pdf) | 25 Aug 2023 |
+| 3  | Storing and loading to and from memory, Use of mfhi and mflo registers, and arithmetic instructions | [Lab 3](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab03/LabSheet3.pdf) | 01 Sep 2023 |
+| 4  | Explore floating point instructions | [Lab 4](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab04/LabSheet4.pdf) | 08 Sep 2023 |
+| 5  | Branch instructions, jump instructions and logical and shift operations | [Lab 5](https://github.com/pavas23/CS-F342/tree/main/Labs/Lab05) | 22 Sep 2023 |
+| 6  | Loops, arrays and string manipulations | [Lab 6](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab06/LabSheet6.pdf) | 29 Sep 2023 |
+| 7  | Explore basics of functions and recursion | [Lab 7](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab07/LabSheet7.pdf) | 07 Oct 2023 |
+| 8  | Exception mechanism in MIPS | [Lab 8](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab08/LabSheet8.pdf) | 14 Oct 2023 |
+| 9  | Understanding the pipelining in MIPS | [Lab 9](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab09/LabSheet9.pdf) | 21 Oct 2023 |
+| 10  | Memory allocation using system calls | [Lab 10](https://github.com/pavas23/CS-F342/tree/main/Labs/Lab10) | 10 Nov 2023 |
+| 11  | Exploring sorting techniques using MIPS | [Lab 11](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab11/LabSheet11.pdf) | 17 Nov 2023 |
+| 12  | Graph Algorithms using MIPS | [Lab 12](https://github.com/pavas23/CS-F342/blob/main/Labs/Lab12/LabSheet12.pdf) | 24 Nov 2023 |
