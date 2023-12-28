@@ -142,7 +142,3 @@ heapify:
         addi $sp $sp 12
 
     returnHeapify: jr $ra
-
-
-
-    
